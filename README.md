@@ -16,6 +16,7 @@ Oxygen OS Port for lisa by Team Crafters
 - Enjoy!
 
 ### Note
+- Make sure 20GB+ space is available in PC
 - Your device will be formatted while flashing so backup your data before flashing
 - Safetynet passed by default, if you found failed then use any module
 
